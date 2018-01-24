@@ -11,3 +11,17 @@ c:\users\anci_oq88\documents\visual studio 2013\Projects\WhoWonnaWillBeMillioner
 c:\users\anci_oq88\documents\visual studio 2013\Projects\WhoWonnaWillBeMillioner\WhoWonnaWillBeMillioner\obj\Debug\WhoWonnaWillBeMillioner.csproj.GenerateResource.Cache
 c:\users\anci_oq88\documents\visual studio 2013\Projects\WhoWonnaWillBeMillioner\WhoWonnaWillBeMillioner\obj\Debug\WhoWonnaWillBeMillioner.exe
 c:\users\anci_oq88\documents\visual studio 2013\Projects\WhoWonnaWillBeMillioner\WhoWonnaWillBeMillioner\obj\Debug\WhoWonnaWillBeMillioner.pdb
+C:\Users\Asus\Desktop\WhoWonnaWillBeMillioner\WhoWonnaWillBeMillioner\bin\Debug\WhoWonnaWillBeMillioner.exe.config
+C:\Users\Asus\Desktop\WhoWonnaWillBeMillioner\WhoWonnaWillBeMillioner\bin\Debug\WhoWonnaWillBeMillioner.exe
+C:\Users\Asus\Desktop\WhoWonnaWillBeMillioner\WhoWonnaWillBeMillioner\bin\Debug\WhoWonnaWillBeMillioner.pdb
+C:\Users\Asus\Desktop\WhoWonnaWillBeMillioner\WhoWonnaWillBeMillioner\obj\Debug\WhoWonnaWillBeMillioner.csprojResolveAssemblyReference.cache
+C:\Users\Asus\Desktop\WhoWonnaWillBeMillioner\WhoWonnaWillBeMillioner\obj\Debug\MainWindow.baml
+C:\Users\Asus\Desktop\WhoWonnaWillBeMillioner\WhoWonnaWillBeMillioner\obj\Debug\MainWindow.g.cs
+C:\Users\Asus\Desktop\WhoWonnaWillBeMillioner\WhoWonnaWillBeMillioner\obj\Debug\App.g.cs
+C:\Users\Asus\Desktop\WhoWonnaWillBeMillioner\WhoWonnaWillBeMillioner\obj\Debug\WhoWonnaWillBeMillioner_MarkupCompile.cache
+C:\Users\Asus\Desktop\WhoWonnaWillBeMillioner\WhoWonnaWillBeMillioner\obj\Debug\WhoWonnaWillBeMillioner.g.resources
+C:\Users\Asus\Desktop\WhoWonnaWillBeMillioner\WhoWonnaWillBeMillioner\obj\Debug\WhoWonnaWillBeMillioner.Properties.Resources.resources
+C:\Users\Asus\Desktop\WhoWonnaWillBeMillioner\WhoWonnaWillBeMillioner\obj\Debug\WhoWonnaWillBeMillioner.csproj.GenerateResource.Cache
+C:\Users\Asus\Desktop\WhoWonnaWillBeMillioner\WhoWonnaWillBeMillioner\obj\Debug\WhoWonnaWillBeMillioner.csproj.CoreCompileInputs.cache
+C:\Users\Asus\Desktop\WhoWonnaWillBeMillioner\WhoWonnaWillBeMillioner\obj\Debug\WhoWonnaWillBeMillioner.exe
+C:\Users\Asus\Desktop\WhoWonnaWillBeMillioner\WhoWonnaWillBeMillioner\obj\Debug\WhoWonnaWillBeMillioner.pdb

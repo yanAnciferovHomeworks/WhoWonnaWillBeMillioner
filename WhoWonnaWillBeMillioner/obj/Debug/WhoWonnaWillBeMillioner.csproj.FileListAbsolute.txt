@@ -1,0 +1,13 @@
+c:\users\anci_oq88\documents\visual studio 2013\Projects\WhoWonnaWillBeMillioner\WhoWonnaWillBeMillioner\bin\Debug\WhoWonnaWillBeMillioner.exe.config
+c:\users\anci_oq88\documents\visual studio 2013\Projects\WhoWonnaWillBeMillioner\WhoWonnaWillBeMillioner\bin\Debug\WhoWonnaWillBeMillioner.exe
+c:\users\anci_oq88\documents\visual studio 2013\Projects\WhoWonnaWillBeMillioner\WhoWonnaWillBeMillioner\bin\Debug\WhoWonnaWillBeMillioner.pdb
+c:\users\anci_oq88\documents\visual studio 2013\Projects\WhoWonnaWillBeMillioner\WhoWonnaWillBeMillioner\obj\Debug\WhoWonnaWillBeMillioner.csprojResolveAssemblyReference.cache
+c:\users\anci_oq88\documents\visual studio 2013\Projects\WhoWonnaWillBeMillioner\WhoWonnaWillBeMillioner\obj\Debug\MainWindow.baml
+c:\users\anci_oq88\documents\visual studio 2013\Projects\WhoWonnaWillBeMillioner\WhoWonnaWillBeMillioner\obj\Debug\MainWindow.g.cs
+c:\users\anci_oq88\documents\visual studio 2013\Projects\WhoWonnaWillBeMillioner\WhoWonnaWillBeMillioner\obj\Debug\App.g.cs
+c:\users\anci_oq88\documents\visual studio 2013\Projects\WhoWonnaWillBeMillioner\WhoWonnaWillBeMillioner\obj\Debug\WhoWonnaWillBeMillioner_MarkupCompile.cache
+c:\users\anci_oq88\documents\visual studio 2013\Projects\WhoWonnaWillBeMillioner\WhoWonnaWillBeMillioner\obj\Debug\WhoWonnaWillBeMillioner.g.resources
+c:\users\anci_oq88\documents\visual studio 2013\Projects\WhoWonnaWillBeMillioner\WhoWonnaWillBeMillioner\obj\Debug\WhoWonnaWillBeMillioner.Properties.Resources.resources
+c:\users\anci_oq88\documents\visual studio 2013\Projects\WhoWonnaWillBeMillioner\WhoWonnaWillBeMillioner\obj\Debug\WhoWonnaWillBeMillioner.csproj.GenerateResource.Cache
+c:\users\anci_oq88\documents\visual studio 2013\Projects\WhoWonnaWillBeMillioner\WhoWonnaWillBeMillioner\obj\Debug\WhoWonnaWillBeMillioner.exe
+c:\users\anci_oq88\documents\visual studio 2013\Projects\WhoWonnaWillBeMillioner\WhoWonnaWillBeMillioner\obj\Debug\WhoWonnaWillBeMillioner.pdb

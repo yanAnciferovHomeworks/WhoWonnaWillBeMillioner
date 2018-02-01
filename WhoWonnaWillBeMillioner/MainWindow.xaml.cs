@@ -20,149 +20,22 @@ namespace WhoWonnaWillBeMillioner
     /// </summary>
     /// 
 
-    public enum ResponceType
-    {
-        A, B, C, D
-    }
+   
 
-    public class Question
-    {
-        public string A { get; set; }
-        public string B { get; set; }
-        public string C { get; set; }
-        public string D { get; set; }
-
-        public string Quest { get; set; }
-
-        public ResponceType ValidResponce { get; set; }
-    }
+  
 
     class Game : IMilionerPresenter
     {
-        List<Question> qs = new List<Question>()
-        {
-            new Question(){
-                Quest = "Первый вопрос?",
-                A = "Да, определенно!",
-                B = "Нет, сто проц!",
-                C = "Мейби!",
-                D = "Хз",
-                ValidResponce = ResponceType.A
-            },
-            new Question(){
-                Quest = "Второй вопрос?",
-                A = "Да, определенно!",
-                B = "Нет, сто проц!",
-                C = "Мейби!",
-                D = "Хз",
-                ValidResponce = ResponceType.A
-            },
-            new Question(){
-                Quest = "Третий вопрос?",
-                A = "Да, определенно!",
-                B = "Нет, сто проц!",
-                C = "Мейби!",
-                D = "Хз",
-                ValidResponce = ResponceType.A
-            },
-            new Question(){
-                Quest = "Четвертый вопрос?",
-                A = "Да, определенно!",
-                B = "Нет, сто проц!",
-                C = "Мейби!",
-                D = "Хз",
-                ValidResponce = ResponceType.A
-            },
-            new Question(){
-                Quest = "Пятый вопрос?",
-                A = "Да, определенно!",
-                B = "Нет, сто проц!",
-                C = "Мейби!",
-                D = "Хз",
-                ValidResponce = ResponceType.A
-            },
-            new Question(){
-                Quest = "Шестой вопрос?",
-                A = "Да, определенно!",
-                B = "Нет, сто проц!",
-                C = "Мейби!",
-                D = "Хз",
-                ValidResponce = ResponceType.A
-            },
-            new Question(){
-                Quest = "Седьмой вопрос?",
-                A = "Да, определенно!",
-                B = "Нет, сто проц!",
-                C = "Мейби!",
-                D = "Хз",
-                ValidResponce = ResponceType.A
-            },
-            new Question(){
-                Quest = "Восьмой вопрос?",
-                A = "Да, определенно!",
-                B = "Нет, сто проц!",
-                C = "Мейби!",
-                D = "Хз",
-                ValidResponce = ResponceType.A
-            },
-            new Question(){
-                Quest = "Девятый вопрос?",
-                A = "Да, определенно!",
-                B = "Нет, сто проц!",
-                C = "Мейби!",
-                D = "Хз",
-                ValidResponce = ResponceType.A
-            },
-            new Question(){
-                Quest = "Десятый вопрос?",
-                A = "Да, определенно!",
-                B = "Нет, сто проц!",
-                C = "Мейби!",
-                D = "Хз",
-                ValidResponce = ResponceType.A
-            },
-            new Question(){
-                Quest = "Одинадцатый вопрос?",
-                A = "Да, определенно!",
-                B = "Нет, сто проц!",
-                C = "Мейби!",
-                D = "Хз",
-                ValidResponce = ResponceType.A
-            },
-            new Question(){
-                Quest = "Двенадцатый вопрос?",
-                A = "Да, определенно!",
-                B = "Нет, сто проц!",
-                C = "Мейби!",
-                D = "Хз",
-                ValidResponce = ResponceType.A
-            },
-            new Question(){
-                Quest = "Тринадцатый вопрос?",
-                A = "Да, определенно!",
-                B = "Нет, сто проц!",
-                C = "Мейби!",
-                D = "Хз",
-                ValidResponce = ResponceType.A
-            },
-            new Question(){
-                Quest = "Четырнадцатый вопрос?",
-                A = "Да, определенно!",
-                B = "Нет, сто проц!",
-                C = "Мейби!",
-                D = "Хз",
-                ValidResponce = ResponceType.A
-            }
-
-        };
+        List<Question> qs = new List<Question>();
         int currentQuest = 0;
         List<int> moneyLvl = new List<int>(){
             100,200,500,1000,2000,5000,10000,25000,50000,100000,200000,500000,1000000
         };
         int StonePrice = 0;
         MainWindow _view;
-        public Game(MainWindow view)
+        public Game(MainWindow view, List<Question> list)
         {
+            qs = list;
             _view = view;
             view.A.Click += A_Click;
             view.B.Click += B_Click;
@@ -355,12 +228,11 @@ namespace WhoWonnaWillBeMillioner
 
     public partial class MainWindow : Window
     {
-        IMilionerPresenter pres;
+        
         Question currentQuestion = null;
         public MainWindow()
         {
             InitializeComponent();
-            pres = new Game(this);
         }
 
         public void SetQuest(Question question)

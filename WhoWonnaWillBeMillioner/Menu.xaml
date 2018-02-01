@@ -1,0 +1,14 @@
+﻿<Window x:Class="WhoWonnaWillBeMillioner.Menu"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:WhoWonnaWillBeMillioner"
+        mc:Ignorable="d"
+        Title="Menu" Height="300" Width="300">
+    <Grid>
+        <Button Content="Начать игру" HorizontalAlignment="Left" Margin="90,42,0,0" VerticalAlignment="Top" Width="124" Height="60" Click="Button_Click"/>
+        <Button Content="Редактор вопросов" HorizontalAlignment="Left" Margin="90,127,0,0" VerticalAlignment="Top" Width="124" Height="67" Click="Button_Click_1"/>
+
+    </Grid>
+</Window>

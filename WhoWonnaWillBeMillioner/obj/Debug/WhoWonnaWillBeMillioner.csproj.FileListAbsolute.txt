@@ -25,3 +25,8 @@ C:\Users\Asus\Desktop\WhoWonnaWillBeMillioner\WhoWonnaWillBeMillioner\obj\Debug\
 C:\Users\Asus\Desktop\WhoWonnaWillBeMillioner\WhoWonnaWillBeMillioner\obj\Debug\WhoWonnaWillBeMillioner.csproj.CoreCompileInputs.cache
 C:\Users\Asus\Desktop\WhoWonnaWillBeMillioner\WhoWonnaWillBeMillioner\obj\Debug\WhoWonnaWillBeMillioner.exe
 C:\Users\Asus\Desktop\WhoWonnaWillBeMillioner\WhoWonnaWillBeMillioner\obj\Debug\WhoWonnaWillBeMillioner.pdb
+C:\Users\Asus\Desktop\WhoWonnaWillBeMillioner\WhoWonnaWillBeMillioner\obj\Debug\Menu.g.cs
+C:\Users\Asus\Desktop\WhoWonnaWillBeMillioner\WhoWonnaWillBeMillioner\obj\Debug\Settings.g.cs
+C:\Users\Asus\Desktop\WhoWonnaWillBeMillioner\WhoWonnaWillBeMillioner\obj\Debug\WhoWonnaWillBeMillioner_MarkupCompile.lref
+C:\Users\Asus\Desktop\WhoWonnaWillBeMillioner\WhoWonnaWillBeMillioner\obj\Debug\Menu.baml
+C:\Users\Asus\Desktop\WhoWonnaWillBeMillioner\WhoWonnaWillBeMillioner\obj\Debug\Settings.baml

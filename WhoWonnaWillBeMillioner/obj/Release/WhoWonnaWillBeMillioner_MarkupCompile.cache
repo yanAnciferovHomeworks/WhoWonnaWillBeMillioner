@@ -4,17 +4,17 @@
 winexe
 C#
 .cs
-C:\Users\Asus\Desktop\WhoWonnaWillBeMillioner\WhoWonnaWillBeMillioner\obj\Debug\
+C:\Users\Asus\Desktop\WhoWonnaWillBeMillioner\WhoWonnaWillBeMillioner\obj\Release\
 WhoWonnaWillBeMillioner
 none
 false
-DEBUG;TRACE
+TRACE
 C:\Users\Asus\Desktop\WhoWonnaWillBeMillioner\WhoWonnaWillBeMillioner\App.xaml
 3370973988
 
-13-2096096795
+8-379857974
 12-1401562060
 MainWindow.xaml;Menu.xaml;Settings.xaml;
 
-True
+False
 
